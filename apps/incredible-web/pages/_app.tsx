@@ -7,7 +7,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Welcome to incredible-web!</title>
+        <title>Cinemapp Nx</title>
       </Head>
       <main className="app">
         <Component {...pageProps} />
